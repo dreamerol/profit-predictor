@@ -247,11 +247,9 @@ This project transforms raw data into **insightful predictions**, allowing busin
 </p>
 
 
-
-
+---
 
 ## <p align="center"><strong><em style="font-size:20px;">Turning data into decisions—and predictions into profit.</em></strong></p>
-
 
 
 <p align="center">
