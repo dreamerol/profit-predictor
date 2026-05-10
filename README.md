@@ -230,18 +230,6 @@ This project transforms raw data into **insightful predictions**, allowing busin
 ---
 
 
-## <p align="center"><strong><em style="font-size:20px;">Turning data into decisions—and predictions into profit.</em></strong></p>
-
-
-
-<p align="center">
-  🔗 Explore more on my GitHub profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
-
----
-
-
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
@@ -262,6 +250,14 @@ This project transforms raw data into **insightful predictions**, allowing busin
 
 
 
+## <p align="center"><strong><em style="font-size:20px;">Turning data into decisions—and predictions into profit.</em></strong></p>
+
+
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
 
 
 
