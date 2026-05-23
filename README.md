@@ -1,14 +1,12 @@
 <h1 align="center">📈 𝗠𝗟 𝗠𝗢𝗗𝗘𝗟 𝗙𝗢𝗥 𝗦𝗔𝗟𝗘𝗦 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗜𝗢𝗡</h1>
 
+<h1 align="center">🌍 𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 : 𝗠𝗟-𝗗𝗥𝗜𝗩𝗘𝗡 𝗦𝗔𝗟𝗘𝗦 𝗙𝗢𝗥𝗘𝗖𝗔𝗦𝗧𝗜𝗡𝗚</h1>
+
 
 ## <p align="center"><strong><em>Predicting trends, maximizing profits, and delivering actionable insights</em></strong></p>
 
 
 ![Data Analysis and ML](https://github.com/Dreamerol/Dreamerol/blob/4b9fa21e23cac25bfe295a5e45635e5cdada14ec/Sajt.jpg)
-
-
-
-<h1 align="center">🌍 PROFIT PREDICTOR : ML-Driven Sales Forecasting</h1>
 
 
 
